@@ -4,7 +4,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
    <teiHeader xml:base="https://betamasaheft.eu/">
       <fileDesc>
          <titleStmt>
-            <title>ʾAbbāta Makʷǝryā</title>
+            <title>ʾAbbāta Makʷǝriyā</title>
             <author/>
          </titleStmt>
          <publicationStmt>
@@ -46,7 +46,7 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI
       <body>
          <listPerson>
             <person sex="1">
-               <persName xml:lang="gez" type="normalized">ʾAbbāta Makʷǝryā
+               <persName xml:lang="gez" type="normalized">ʾAbbāta Makʷǝriyā
                </persName>
                <occupation type="other"> director </occupation>
             </person>
